@@ -12,12 +12,12 @@
 
 ## 3. Phân Tích Yêu Cầu  
 - Yêu cầu chức năng:
- - Thu thập và tiền xử lý dữ liệu song ngữ.
- - Đánh giá chất lượng bản dịch bằng các chỉ số tiêu chuẩn.
- - So sánh giữa mô hình cơ bản và mô hình đã cải tiến.
+  - Thu thập và tiền xử lý dữ liệu song ngữ.
+  - Đánh giá chất lượng bản dịch bằng các chỉ số tiêu chuẩn.
+  - So sánh giữa mô hình cơ bản và mô hình đã cải tiến.
 - Yêu cầu phi chức năng:
- - Đảm bảo khả năng mở rộng với các bộ dữ liệu lớn hơn.
- - Cung cấp quy trình đánh giá minh bạch và có thể tái tạo.
+  - Đảm bảo khả năng mở rộng với các bộ dữ liệu lớn hơn.
+  - Cung cấp quy trình đánh giá minh bạch và có thể tái tạo.
 
 ## 4. Kỹ Thuật Phân Tích Kinh Doanh  
 - <b> Chuẩn bị dữ liệu:</b> Làm sạch và cấu trúc lại bộ dữ liệu song ngữ Anh–Việt.
@@ -34,12 +34,12 @@
 ## 6. Đánh Giá và Cải Tiến  
 - <b> Hạn chế:</b> Một số thuật ngữ chuyên ngành vẫn khó dịch; việc đánh giá chỉ dựa trên điểm BLEU còn hạn chế.
 - <b> Đề xuất cải tiến: </b>
- - Kết hợp đánh giá thủ công để đo độ tự nhiên và độ đầy đủ của bản dịch.
- - Mở rộng dữ liệu với nội dung chuyên biệt theo lĩnh vực.
- - Kiểm thử thêm các chỉ số đánh giá khác ngoài BLEU (ví dụ: METEOR, COMET).
+  - Kết hợp đánh giá thủ công để đo độ tự nhiên và độ đầy đủ của bản dịch.
+  - Mở rộng dữ liệu với nội dung chuyên biệt theo lĩnh vực.
+  - Kiểm thử thêm các chỉ số đánh giá khác ngoài BLEU (ví dụ: METEOR, COMET).
    
 ## 7. Kỹ Năng Ứng Dụng  
-Phân tích yêu cầu, chuẩn bị dữ liệu, đánh giá mô hình so sánh, viết tài liệu nghiệp vụ, trình bày nghiên cứu và báo cáo cho các bên liên quan.  
+Phân tích yêu cầu, chuẩn bị dữ liệu, đánh giá mô hình so sánh, viết tài liệu nghiệp vụ, trình bày nghiên cứu và báo cáo cho các bên liên quan.   
 
 ## 8. Phản Hồi & Tự Đánh Giá  
 Quá trình thực hiện dự án này giúp nâng cao hiểu biết về dịch máy, khả năng phân tích mô hình và kỹ năng truyền đạt kết quả kỹ thuật sang ngôn ngữ kinh doanh.
